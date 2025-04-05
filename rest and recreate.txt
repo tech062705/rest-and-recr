@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>create while resting</h1>
+    
+</header>
+<main>
+    <p>Are you a learner willing to tackle battles or a seeker of productivity....? Congratulations you have landed on right place !! </p>
+    <a href="https://rest-and-recreate.b12sites.com/index" target="_blank">
+    <button>click here </button>
+  </a>
+</main>
+<footer>
+    <p>&copy; 2025 R&R . All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
