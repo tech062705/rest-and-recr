@@ -24,3 +24,64 @@
 <script src="script.js"></script>
 </body>
 </html>
+/* Reset some default styles */
+
+
+
+/* General Body Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:none;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header Styles */
+header {
+    
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size:1.9rem;
+    background-color:pink;
+    color:white;
+}
+
+/* Main Content Styles */
+main {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1.8rem;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+/* Button Styling */
+button {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005f73;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.8rem;
+    color: #888;
+}
